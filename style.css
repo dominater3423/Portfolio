@@ -1,0 +1,34 @@
+.header_main {
+    text-align: center;
+    padding-top: 7%;
+}
+
+body {
+    background-color: #1D1C1A;
+    color: #FFFFFF;
+    font-family: "Dejavu sans";
+    font-size: 115%;
+}
+
+.home_menu {
+    border: 4px solid #FFFFFF;
+    margin-right: 30%;
+    margin-left: 30%;
+    padding-right: 5%;
+    padding-left: 5%;
+    border-radius: 10px;
+}
+
+.home_menu a, header a, .subpage_body a {
+    color: white; 
+}
+
+.subpage_body, .subpage_header {
+    padding-right: 20%;
+    padding-left: 20%;
+}
+
+.right {
+    padding-left: 60%;
+}
+
