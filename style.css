@@ -32,3 +32,47 @@ body {
     padding-left: 60%;
 }
 
+.first_day {
+    width: 250%;
+}
+
+.online_design {
+    width: 200%;
+}
+
+.calendar {
+    width: 250%;
+}
+
+.website {
+    width: 200%;
+}
+
+.right, .left {
+    flex: 50%;
+}
+
+.pictures {
+    display: flex;
+    text-align: center;
+}
+
+.notebook {
+    width: 200%;
+}
+
+.tik_tak_toe {
+    width: 200%;
+}
+
+.keyboard {
+    width: 200%;
+}
+
+.zoom {
+    width: 200%;
+}
+
+.creative_moment {
+    
+}
